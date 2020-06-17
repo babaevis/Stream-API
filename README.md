@@ -10,7 +10,9 @@ Parse hint:
 SVF2018-05-24_12:02:58.917
 
 SVF - racer abbreviation 
+
 2018-05-24 - date
+
 12:02:58.917 - time
 
 Your task is to read data from 2 files, order racers by time and print top 15 racers and the rest after underline.  Example:
