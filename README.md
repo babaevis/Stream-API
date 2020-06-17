@@ -14,4 +14,4 @@ SVF - racer abbreviation
 12:02:58.917 - time
 
 Your task is to read data from 2 files, order racers by time and print report that shows the top 15 racers and the rest after underline. Example:
-[example](/example.png)
+![example](/example.png)
